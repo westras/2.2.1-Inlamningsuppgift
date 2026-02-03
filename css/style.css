@@ -30,6 +30,7 @@ box-sizing: border-box;
 font-size: 16px;
 }
 
+/*/ knapp fix /*/
 button {
 background-color: #c0f3f3;
 color: white;
