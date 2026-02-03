@@ -26,7 +26,7 @@ if (isset($_POST['namn']) && isset($_POST['alder'])) {
         <?php if ($message): ?>
             <p><?php echo $message; ?></p>
             <div class="back-link">
-                <a href="index.html">Tillbaka till formuläret</a>
+                <a href="index.html">Tillbaka till Början</a>
             </div>
         <?php else: ?>
             <p>Ingen data mottagen. Vänligen fyll i formuläret.</p>
